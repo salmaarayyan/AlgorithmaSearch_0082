@@ -36,14 +36,13 @@ void LinearSearch()
 
     do
     {
-        /* code */
-    } while ({
         //accept the number to be searched
         cout << "\nenter the element you want to search : ";  //step 1
         cin >> item;
 
         ctr = 0;
         i = 0;  //step 2
-    });
+        while (i < n)  //step 3
+    }
     
 }
